@@ -1,6 +1,6 @@
 # Whole-Energy-Water-Nexus-Model
 
-
+---
 📌 Overview
 
 This repository contains all computational materials developed for the research project:
@@ -16,6 +16,7 @@ Supporting materials for reproducing the study outcomes
 
 The project investigates the integration of data centres within the UK energy transition while considering the interdependencies between energy systems, water resources, and climate impacts.
 
+---
 📂 Repository Structure
 
 The repository is organised as follows:
@@ -31,6 +32,8 @@ The repository is organised as follows:
 │   └── Results for all investigated scenarios
 │
 └── README.md
+
+---
 💻 Model Execution
 
 
@@ -46,11 +49,12 @@ Run the Python script.
 
 The model will generate outputs corresponding to the defined energy–water transition scenarios.
 
+---
 📊 Results
 
 The complete results for all investigated scenarios are provided in:
 
-
+---
 📬 Support
 
 The authors provide guidance and technical support regarding:
@@ -63,7 +67,7 @@ Troubleshooting
 For technical enquiries, please contact the project authors.
 
 
-
+---
 👥 Authors
 
 Mohammad Hemmati
