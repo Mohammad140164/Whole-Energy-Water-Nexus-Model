@@ -1,0 +1,101 @@
+
+Gurobi 13.0.2 (win64) logging started Sat Jul 11 22:36:21 2026
+
+Set parameter LogFile to value "opt.log"
+Set parameter BarHomogeneous to value 1
+Set parameter NumericFocus to value 1
+Set parameter IntegralityFocus to value 1
+Gurobi Optimizer version 13.0.2 build v13.0.2rc1 (win64 - Windows 11.0 (26100.2))
+
+CPU model: Intel(R) Core(TM) Ultra 7 165H, instruction set [SSE2|AVX|AVX2]
+Thread count: 16 physical cores, 22 logical processors, using up to 30 threads
+
+Warning: Thread count (30) is larger than processor count (22)
+         Reduce the value of the Threads parameter to improve performance
+
+
+Non-default parameters:
+MIPGap  0.05
+BarHomogeneous  1
+IntegralityFocus  1
+NumericFocus  1
+Presolve  2
+Threads  30
+
+Optimize a model with 220187 rows, 147075 columns and 748468 nonzeros (Min)
+Model fingerprint: 0x2adfa9d1
+Model has 11234 linear objective coefficients
+Variable types: 146728 continuous, 347 integer (57 binary)
+Coefficient statistics:
+  Matrix range     [1e-04, 3e+06]
+  Objective range  [1e-01, 4e+00]
+  Bounds range     [1e+00, 2e+04]
+  RHS range        [1e+00, 8e+07]
+
+Presolve removed 144907 rows and 87475 columns
+Presolve time: 1.36s
+Presolved: 75280 rows, 59600 columns, 318816 nonzeros
+Variable types: 59430 continuous, 170 integer (36 binary)
+Root relaxation presolved: 75280 rows, 59600 columns, 318816 nonzeros
+
+Deterministic concurrent LP optimizer: primal and dual simplex
+Showing primal log only...
+
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   30516    1.7758999e+11   1.870132e+04   2.620050e+09      5s
+   44522    7.6918727e+11   4.595325e+02   1.027524e+09     10s
+
+Gurobi 13.0.2 (win64) logging started Sat Jul 11 22:46:23 2026
+
+Set parameter LogFile to value "opt.log"
+Set parameter BarHomogeneous to value 1
+Set parameter NumericFocus to value 1
+Set parameter IntegralityFocus to value 1
+Gurobi Optimizer version 13.0.2 build v13.0.2rc1 (win64 - Windows 11.0 (26100.2))
+
+CPU model: Intel(R) Core(TM) Ultra 7 165H, instruction set [SSE2|AVX|AVX2]
+Thread count: 16 physical cores, 22 logical processors, using up to 30 threads
+
+Warning: Thread count (30) is larger than processor count (22)
+         Reduce the value of the Threads parameter to improve performance
+
+
+Non-default parameters:
+MIPGap  0.05
+BarHomogeneous  1
+IntegralityFocus  1
+NumericFocus  1
+Presolve  2
+Threads  30
+
+Optimize a model with 214534 rows, 141420 columns and 730469 nonzeros (Min)
+Model fingerprint: 0x3dbf9447
+Model has 11234 linear objective coefficients
+Variable types: 141073 continuous, 347 integer (57 binary)
+Coefficient statistics:
+  Matrix range     [1e-04, 3e+06]
+  Objective range  [1e-01, 4e+00]
+  Bounds range     [1e+00, 2e+04]
+  RHS range        [1e+00, 8e+07]
+
+Presolve removed 140994 rows and 85288 columns
+Presolve time: 1.59s
+Presolved: 73540 rows, 56132 columns, 313596 nonzeros
+Variable types: 55962 continuous, 170 integer (36 binary)
+Root relaxation presolved: 73540 rows, 56132 columns, 313596 nonzeros
+
+Deterministic concurrent LP optimizer: primal and dual simplex
+Showing primal log only...
+
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   16390    1.0146387e+11   8.863093e+04   1.069370e+10      5s
+   28440    7.3378394e+10   7.946278e+04   3.016206e+10     10s
+   37781    4.8865007e+11   2.270760e+03   4.358671e+08     15s
+   46309    8.8578859e+11   1.360635e-01   3.393287e+06     20s
+   57289    2.2219014e+11   0.000000e+00   1.008151e+11     25s
