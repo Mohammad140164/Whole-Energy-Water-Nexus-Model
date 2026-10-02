@@ -48,7 +48,15 @@ Configure solver settings if required.
 Run the Python script.
 
 The model will generate outputs corresponding to the defined energy–water transition scenarios.
-For PUE/WUE calculation based on the region and climate zone, please run the code in the ML for PUE and WUE. 
+
+For the PUE/WUE calculations, based on the region and corresponding climate zone, please run the ML model/code for estimating PUE and WUE.
+
+We acknowledge the following research, on which our methodology builds:
+
+N. Lei and E. Masanet, “Climate- and technology-specific PUE and WUE estimations for U.S. data centers using a hybrid statistical and thermodynamics-based approach,” *Resources, Conservation and Recycling*, vol. 182, 2022, 106323. https://doi.org/10.1016/j.resconrec.2022.106323.
+
+
+
 ---
 📊 Results
 
