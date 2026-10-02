@@ -5,7 +5,7 @@
 
 This repository contains all computational materials developed for the research project:
 
-"Climate-Aware Integration of Data Centres in UK Energy Transition: A Whole-System Energy–Water Nexus Analysis"
+"Beyond Facility-Level Metrics: A Whole-System Energy–Water Nexus Analysis of Data Centre Integration in Great Britain’s Net-Zero Transition"
 
 The repository provides:
 
@@ -52,7 +52,7 @@ The model will generate outputs corresponding to the defined energy–water tran
 ---
 📊 Results
 
-The complete results for all investigated scenarios are provided in:
+The complete results for all investigated scenarios are provided in Results Folder under different scenarios 
 
 ---
 📬 Support
