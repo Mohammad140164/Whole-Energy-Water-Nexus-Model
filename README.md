@@ -48,7 +48,7 @@ Configure solver settings if required.
 Run the Python script.
 
 The model will generate outputs corresponding to the defined energy–water transition scenarios.
-
+For PUE/WUE calculation based on the region and climate zone, please run the code in the ML for PUE and WUE. 
 ---
 📊 Results
 
