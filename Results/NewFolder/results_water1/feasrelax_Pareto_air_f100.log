@@ -1,0 +1,96 @@
+
+Gurobi 12.0.2 (win64) logging started Sat Oct 24 18:53:25 2026
+
+Set parameter LogFile to value "c:\users\mohammad\results_water1\feasrelax_Pareto_air_f100.log"
+Warning: model has pending changes.
+Derived model does not contain these changes.
+Gurobi Optimizer version 12.0.2 build v12.0.2rc0 (win64 - Windows Server 2022.0 (20348.2))
+
+CPU model: Intel(R) Xeon(R) w5-2565X, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 18 physical cores, 36 logical processors, using up to 30 threads
+
+Non-default parameters:
+Threads  30
+
+
+Solve phase I feasrelax model to determine minimal relaxation
+
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Model fingerprint: 0xf9715da1
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds (0.00 work units)
+Optimal objective  0.000000000e+00
+Gurobi Optimizer version 12.0.2 build v12.0.2rc0 (win64 - Windows Server 2022.0 (20348.2))
+
+CPU model: Intel(R) Xeon(R) w5-2565X, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 18 physical cores, 36 logical processors, using up to 30 threads
+
+Non-default parameters:
+Threads  30
+
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+
+Solved in 0 iterations and 0.00 seconds (0.00 work units)
+Optimal objective  0.000000000e+00
+
+Gurobi 12.0.2 (win64) logging started Sun Oct 25 22:59:31 2026
+
+Set parameter LogFile to value "c:\users\mohammad\results_water1\feasrelax_Pareto_air_f100.log"
+Warning: model has pending changes.
+Derived model does not contain these changes.
+Gurobi Optimizer version 12.0.2 build v12.0.2rc0 (win64 - Windows Server 2022.0 (20348.2))
+
+CPU model: Intel(R) Xeon(R) w5-2565X, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 18 physical cores, 36 logical processors, using up to 30 threads
+
+Non-default parameters:
+Threads  30
+
+
+Solve phase I feasrelax model to determine minimal relaxation
+
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Model fingerprint: 0xf9715da1
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds (0.00 work units)
+Optimal objective  0.000000000e+00
+Gurobi Optimizer version 12.0.2 build v12.0.2rc0 (win64 - Windows Server 2022.0 (20348.2))
+
+CPU model: Intel(R) Xeon(R) w5-2565X, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 18 physical cores, 36 logical processors, using up to 30 threads
+
+Non-default parameters:
+Threads  30
+
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+
+Solved in 0 iterations and 0.01 seconds (0.00 work units)
+Optimal objective  0.000000000e+00
